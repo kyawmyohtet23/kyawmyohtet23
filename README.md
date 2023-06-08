@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **React**
 
+- 💬 Ask me about **laravel, javascript**
+
 - 📫 How to reach me **kyawmhtet23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
